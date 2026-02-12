@@ -1,0 +1,74 @@
+body {
+  margin: 0 0 0 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+h1 {
+  color: #1e293b;
+}
+
+.card {
+  background: white;
+  padding: 100px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  margin-bottom: 10px ;
+}
+
+.form input,
+.form textarea {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 7%;
+  border: 1px solid #ccc;
+  font-size: 20px;
+}
+
+.form textarea {
+  resize: true;
+  height: 150px;
+}
+
+button {
+  width: 100%;
+  padding: 20px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.reporte h3 {
+  margin: 0 0 5px 0;
+}
+
+.reporte span {
+  font-size: 12px;
+  color: gray;
+}
+/*Centrar en la pantalla*/
+body, html {
+  height: 80%;
+  justify-content: center;
+  align-items: center;
+}
