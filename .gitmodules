@@ -1,0 +1,6 @@
+[submodule "Web-Programming-frontend"]
+	path = Web-Programming-frontend
+	url = https://github.com/DannaOlmedo/Web-Programming-frontend.git
+[submodule "Web-Programming-backend"]
+	path = Web-Programming-backend
+	url = https://github.com/DannaOlmedo/Web-Programming-backend.git
